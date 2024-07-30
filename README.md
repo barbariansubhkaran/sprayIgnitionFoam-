@@ -1,2 +1,2 @@
-# sprayIgnitionFoam-
+# sprayIgnitionFoam
 Solver for alcohol fuels ignition 
